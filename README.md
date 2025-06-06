@@ -9,7 +9,7 @@ Saya siswa SMK kelas 11 jurusan Teknik Komputer dan Jaringan (TKJ).
 
 📌 Saat ini saya sedang membangun portofolio GitHub sambil belajar dan mengembangkan diri. Repo di bawah ini akan saya isi seiring waktu dengan proyek mini, tugas sekolah, dan dokumentasi pembelajaran.
 
-📫 Kontak saya: [bisa kamu isi nanti kalau mau]
+📫 Kontak saya: [mburhanuddin711@gmail.com]
 
 
 <!--
